@@ -4649,7 +4649,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 © °rexju°͢`, contextInfo:{"externalAdReply": {"title": `SC °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -4661,7 +4661,6 @@ if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
-
 ° Owner  : 6289518022967
 ° Version : 11
 ° Baileys : 4.4.0
@@ -4675,7 +4674,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 ┣❏rexjujagoan [ reply target ]
 ┣❏rexjusange [ Harus Menjadi Admin ]
 ┣❏bugtiktok [ Link ] - Bug Sw
-┗━━⊱[°rexju°]
+┗━━⊱[°Falzgz°]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ┏━━⊱[ TARGET ]
 ┣❏🔥 628xxx|5|5
@@ -5005,7 +5004,7 @@ Ketik > m.chat ( di group dulu )
 contextInfo:{"externalAdReply": {"title": `SC °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/c/@faldmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5021,7 +5020,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - © © °rexju°-
+"description": ` - © © °Falzgz°-
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
@@ -5034,10 +5033,10 @@ SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© © °rexju°WE ARE NOT MASTOD`,
-"url": "Wa.me/6285714170944"
+"retailerId": `© © °Falzgz°WE ARE NOT MASTOD`,
+"url": "Wa.me/6289518022967"
 },
-"businessOwnerJid": "6285714170944@s.whatsapp.net",
+"businessOwnerJid": "6289518022967@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -5064,7 +5063,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5100,7 +5099,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5145,7 +5144,7 @@ nomorhoki
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5164,7 +5163,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5194,7 +5193,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5232,7 +5231,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5258,7 +5257,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5273,7 +5272,7 @@ bokep`,
 contextInfo:{"externalAdReply": {"title": `SC © °Falzg°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5294,7 +5293,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5327,7 +5326,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5346,7 +5345,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5362,7 +5361,7 @@ mediafire [url]`,
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5397,7 +5396,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5435,7 +5434,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 contextInfo:{"externalAdReply": {"title": `SC © °Falzgz°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
@@ -5608,11 +5607,11 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┣❏rexjusound159
 ┣❏rexjusound160
 ┣❏rexjusound161
-┗━━⊱[ © °rexju°]`,
-contextInfo:{"externalAdReply": {"title": `SC © °rexju`,"body": `Selamat ${salam} kak ${pushname}`,
+┗━━⊱[ © °Falzgz°]`,
+contextInfo:{"externalAdReply": {"title": `SC © °Falzgz`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
+sourceUrl: `https://youtube.com/@falzmodder8570`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 }
 }}, { quoted:m})
